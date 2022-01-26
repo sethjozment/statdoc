@@ -5,5 +5,5 @@
             "ascending": true
         }
     ],
-    "path": "~/R/statdoc/inst/rmarkdown/templates/stat-hw-pdf/skeleton"
+    "path": "~/R/statdoc/inst/rmarkdown/templates/stat-hw-word/skeleton"
 }

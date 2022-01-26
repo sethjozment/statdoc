@@ -1,0 +1,19 @@
+---
+title: "ASSIGNMENT NAME"
+output: 
+  word_document:
+    reference_docx: doc_rubric.docx
+---
+
+```{r graphics_options, include=FALSE, echo=FALSE}
+knitr::opts_chunk$set(message = FALSE, warning = FALSE, echo = FALSE,
+                      fig.align='center', fig.width = 8, fig.height = 6)
+```
+
+```{r load_packages}
+library(tidyverse)
+```
+
+```{r load_data}
+
+```

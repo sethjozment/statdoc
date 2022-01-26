@@ -1,0 +1,4 @@
+name: Stat HW Word
+description: >
+   Template for Word output file R Markdown HW assignments
+create_dir: FALSE

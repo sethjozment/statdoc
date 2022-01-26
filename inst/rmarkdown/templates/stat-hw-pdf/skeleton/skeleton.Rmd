@@ -1,0 +1,15 @@
+---
+title: "ASSIGNMENT NAME"
+author: "Seth Ozment"
+date: "`r format(Sys.Date(), format='%d %b %Y')`"
+output: pdf_document
+---
+
+```{r graphics_options, include=FALSE, echo=FALSE}
+knitr::opts_chunk$set(message = FALSE, warning = FALSE, echo = FALSE,
+                      fig.align='center', fig.width = 8, fig.height = 6)
+```
+
+```{r load_packages}
+library(tidyverse)
+```

@@ -1,0 +1,4 @@
+name: Stat HW Pdf
+description: >
+   Template for PDF output file R Markdown HW assignments
+create_dir: FALSE
